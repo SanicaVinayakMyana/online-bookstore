@@ -21,3 +21,4 @@ Thumbs.db
 
 # Misc
 .env
+backend/backend/src/main/resources/application.properties
