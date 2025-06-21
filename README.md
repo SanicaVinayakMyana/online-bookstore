@@ -23,7 +23,6 @@ A full-stack web application for browsing, purchasing, and managing books online
 
 <img width="1224" alt="Screenshot 2025-06-21 at 5 45 10 PM" src="https://github.com/user-attachments/assets/74cdc8f2-6303-4e0e-ac98-a00862150598" />
 
-Perfect, Sanica! Here's the **exact full content** of your improved `README.md` that you can **copy-paste directly** into your GitHub repository:
 
 ---
 
