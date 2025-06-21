@@ -1,0 +1,23 @@
+# Java (Spring Boot)
+target/
+*.class
+*.jar
+*.war
+*.iml
+
+# Node (React)
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.idea/
+.vscode/
+*.log
+
+# Misc
+.env
